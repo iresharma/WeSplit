@@ -85,6 +85,8 @@
 			dependencies = (
 			);
 			name = WeSplit;
+			packageProductDependencies = (
+			);
 			productName = WeSplit;
 			productReference = 67069F1F267917AC00261C1B /* WeSplit.app */;
 			productType = "com.apple.product-type.application";
@@ -112,6 +114,8 @@
 				Base,
 			);
 			mainGroup = 67069F16267917AC00261C1B;
+			packageReferences = (
+			);
 			productRefGroup = 67069F20267917AC00261C1B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
